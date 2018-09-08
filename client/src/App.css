@@ -1,0 +1,149 @@
+
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+
+
+  @font-face {
+    font-family: 'Sacramento', cursive;
+
+    src: url('https://fonts.googleapis.com/css?family=Grand+Hotel');
+  }
+
+
+  #font{
+    font-family: 'Sacramento', cursive;
+    text-transform: lowercase;
+    font-size: 2em;    
+  }
+
+  .listHolder{
+
+    margin-top: 4rem;
+    background: #f8f8f8;
+    padding: 20px 0;
+    text-align: center;
+  }
+  .uk-list li{
+  padding: 20px;
+}
+.uk-list li:hover{
+background: #dddddd;
+cursor: pointer;
+  }
+
+
+.uk-card{
+  margin-top: 4rem;
+  width:100%!important;
+ 
+}
+
+
+.col-md-6{
+  
+display: flex;
+justify-content: center;  
+  
+}
+
+@media screen and (min-width:1024px)
+{
+
+  img{
+    height: 417px!important;
+  }
+
+}
+
+
+.care, .code, .read{
+  cursor: pointer;
+}
+
+
+
+.uk-card li{
+padding: 20px;
+margin: 20px;
+border-bottom: 2px solid #cac9c9;
+cursor: pointer;
+font-size: 20px;
+
+
+}
+
+.ScrollStyle
+{
+    max-height: 50vh;
+    overflow-y: scroll;
+}
+
+.projectHeader{
+
+
+  padding: 10px;
+  color:white;
+  background: rgb(78, 169, 235);
+  width:22%;
+  text-align: center;
+  text-transform: uppercase;
+
+}
+
+a{
+  color: rgba(5, 5, 5, 0.524)!important;
+}
+
+
+.uk-checkbox{
+  border-radius: 30px!important;
+  background-color: #36d95b!important;
+  padding: 19px!important;
+}
+
+.checkboxes
+{
+  float: right;
+}
+
+
+.checkboxes .btn{
+
+
+  border-radius: 20px!important;
+  margin: 0 2px;
+}
+input{
+  border-radius:0px!important;
+
+}
+
+.save_btn{
+border-radius: 0px!important;
+background-color: #484c4f!important;
+border-color: #484c4f!important;
+}
+
+
+.alert{
+  margin: 30px;
+}
+
+
+@media screen and (max-width:470px)
+{
+
+
+  .uk-card li {
+    padding: 15px;
+    margin: 0px;
+    border-bottom: 2px solid #cac9c9;
+    cursor: pointer;
+    font-size: 22px;
+}
+
+.content{
+  font-size: 17px;
+}
+}
+
+
