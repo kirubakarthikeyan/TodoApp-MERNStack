@@ -61,7 +61,7 @@ var data = req.body.data;
         
                 item:data,
                 done:false,
-                description:"felt tired so cant commit"
+               
         
             });
         
