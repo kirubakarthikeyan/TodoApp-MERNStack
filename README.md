@@ -1,4 +1,4 @@
-</trong>Instructions</Strong>
+<Strong>Instructions</Strong>
 <br>
 <br>
 <ul>
