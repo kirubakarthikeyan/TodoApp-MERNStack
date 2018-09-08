@@ -3,7 +3,7 @@
 <br>
   ```
 	> git clone https://github.com/kirubakarthikeyan/TodoApp-MERNStack.git
-	> cd server
+	> cd TodoApp-MERNStack-master
 	> npm install
 	> npm run dev
 ```
