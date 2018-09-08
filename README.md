@@ -1,7 +1,15 @@
-Instructions
+</trong>Instructions</Strong>
+<br>
+<br>
+<ul>
+  <li>install all the neccessary modules using npm install</li>
+  <li>open config/dev_keys.js and provide your mongoURI</li>
+  <li>start the server and client concurrently using npm run dev</li>
+  <li>navigate to http://localhost:3000/</li>
+  <li>Thats All :fire:</li>
+</ul>
 
-install all the neccessary modules using npm install
-open config/keys.js and provide your mongoURI
-start the server and client using npm run dev
-navigate to http://localhost:3000/
+
+
+
 Enjoy !!
